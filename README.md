@@ -25,7 +25,7 @@ One can search, navigate, and modify data using a parser. It’s versatile and s
 8) Visualize Product Data using a Bar Chart
 
 ### Program:
-```PYTHON
+```
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -71,9 +71,12 @@ if products:  # Check if products list is not empty
     plt.show()
 else:
     print('No products found.')
-
 ```
 
 ### Output:
 
+![image](https://github.com/user-attachments/assets/3d2efc5b-8286-403b-a939-4f0b4a5fda14)
+![image](https://github.com/user-attachments/assets/9836bc59-87f8-421b-bd61-cc204015a48e)
+
 ### Result:
+program excuted sucessfully
